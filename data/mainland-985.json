@@ -7,7 +7,7 @@
     "province": "北京",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "thuthesis",
@@ -26,7 +26,7 @@
         "github_metrics": {
           "stars": 5257,
           "last_commit_at": "2026-04-04T06:34:27Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -39,7 +39,7 @@
     "province": "北京",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -49,27 +49,9 @@
     "city": "北京",
     "province": "北京",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found an older community thesis template candidate.",
-    "templates": [
-      {
-        "name": "ructhesis",
-        "repo": "ZebinWang/ructhesis",
-        "url": "https://github.com/ZebinWang/ructhesis",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists ZebinWang/ructhesis as a Renmin University of China LaTeX thesis template.",
-        "github_metrics": {
-          "stars": 128,
-          "last_commit_at": "2016-12-21T12:19:50Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "bnu",
@@ -79,7 +61,7 @@
     "province": "北京",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -90,7 +72,7 @@
     "province": "北京",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 surfaced Cdmium/CAUTemplate, but the description indicates a course thesis template rather than a degree thesis template, so it is excluded.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -101,7 +83,7 @@
     "province": "北京",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "BIThesis",
@@ -119,7 +101,7 @@
         "github_metrics": {
           "stars": 1085,
           "last_commit_at": "2026-04-04T00:02:54Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -132,7 +114,7 @@
     "province": "北京",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "BUAAThesis",
@@ -149,7 +131,7 @@
         "github_metrics": {
           "stars": 603,
           "last_commit_at": "2024-02-01T05:42:34Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -162,7 +144,7 @@
     "province": "北京",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -173,7 +155,7 @@
     "province": "天津",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -184,7 +166,7 @@
     "province": "天津",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "TJUThesisLatexTemplate",
@@ -201,7 +183,7 @@
         "github_metrics": {
           "stars": 153,
           "last_commit_at": "2024-05-28T16:52:28Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -213,27 +195,9 @@
     "city": "大连",
     "province": "辽宁",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found at least one GitHub-hosted thesis template candidate.",
-    "templates": [
-      {
-        "name": "DLUT_XeLaTeX_Template_For_Bachelor",
-        "repo": "stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
-        "url": "https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
-        "degree_types": [
-          "undergraduate"
-        ],
-        "official_status": "community",
-        "maintenance_status": "unknown",
-        "last_verified": "2026-04-17",
-        "evidence": "The repository owner's GitHub profile pins DLUT_XeLaTeX_Template_For_Bachelor and describes it as a Dalian University of Technology undergraduate thesis LaTeX template.",
-        "github_metrics": {
-          "stars": 16,
-          "last_commit_at": "2018-05-31T01:43:20Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "neu",
@@ -243,7 +207,7 @@
     "province": "辽宁",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found at least one GitHub-hosted thesis template candidate.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "NEU-Thesis",
@@ -259,7 +223,7 @@
         "github_metrics": {
           "stars": 122,
           "last_commit_at": "2025-02-09T14:35:20Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -271,27 +235,9 @@
     "city": "长春",
     "province": "吉林",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found an older thesis template repository.",
-    "templates": [
-      {
-        "name": "jluthesis",
-        "repo": "dartall/jluthesis",
-        "url": "https://github.com/dartall/jluthesis",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists dartall/jluthesis as a Jilin University thesis template repository.",
-        "github_metrics": {
-          "stars": 5,
-          "last_commit_at": "2009-03-07T12:55:19Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "hit",
@@ -301,7 +247,7 @@
     "province": "黑龙江",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "hithesis",
@@ -321,7 +267,7 @@
         "github_metrics": {
           "stars": 2195,
           "last_commit_at": "2026-04-14T01:10:16Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -334,7 +280,7 @@
     "province": "上海",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "fduthesis",
@@ -352,7 +298,7 @@
         "github_metrics": {
           "stars": 1020,
           "last_commit_at": "2024-05-06T03:12:15Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -365,7 +311,7 @@
     "province": "上海",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "tongji-undergrad-thesis",
@@ -381,7 +327,7 @@
         "github_metrics": {
           "stars": 337,
           "last_commit_at": "2026-04-16T19:17:39Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -394,7 +340,7 @@
     "province": "上海",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "SJTUThesis",
@@ -412,7 +358,7 @@
         "github_metrics": {
           "stars": 3742,
           "last_commit_at": "2026-03-12T10:11:58Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -424,27 +370,9 @@
     "city": "上海",
     "province": "上海",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found an older undergraduate thesis template repository.",
-    "templates": [
-      {
-        "name": "ECNU-Undergraduate-LaTeX",
-        "repo": "YijunYuan/ECNU-Undergraduate-LaTeX",
-        "url": "https://github.com/YijunYuan/ECNU-Undergraduate-LaTeX",
-        "degree_types": [
-          "undergraduate"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists YijunYuan/ECNU-Undergraduate-LaTeX as an East China Normal University undergraduate thesis template.",
-        "github_metrics": {
-          "stars": 105,
-          "last_commit_at": "2020-04-09T12:32:25Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "nju",
@@ -454,7 +382,7 @@
     "province": "江苏",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "NJUThesis",
@@ -472,7 +400,7 @@
         "github_metrics": {
           "stars": 629,
           "last_commit_at": "2026-04-13T17:47:37Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -485,7 +413,7 @@
     "province": "江苏",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a recent undergraduate thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "seuthesis2024b",
@@ -501,7 +429,7 @@
         "github_metrics": {
           "stars": 61,
           "last_commit_at": "2024-08-28T15:57:42Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -514,7 +442,7 @@
     "province": "浙江",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "zjuthesis",
@@ -532,7 +460,7 @@
         "github_metrics": {
           "stars": 3605,
           "last_commit_at": "2025-12-08T05:41:41Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -545,7 +473,7 @@
     "province": "安徽",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "ustcthesis",
@@ -563,7 +491,7 @@
         "github_metrics": {
           "stars": 2070,
           "last_commit_at": "2026-04-16T13:28:31Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -575,27 +503,9 @@
     "city": "厦门",
     "province": "福建",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
-    "templates": [
-      {
-        "name": "LaTeXFileforXMUThesis",
-        "repo": "xiamenwcy/LaTeXFileforXMUThesis",
-        "url": "https://github.com/xiamenwcy/LaTeXFileforXMUThesis",
-        "degree_types": [
-          "master"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists xiamenwcy/LaTeXFileforXMUThesis as an Xiamen University master's thesis LaTeX template.",
-        "github_metrics": {
-          "stars": 14,
-          "last_commit_at": "2018-11-22T03:19:26Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "sdu",
@@ -604,27 +514,9 @@
     "city": "济南",
     "province": "山东",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
-    "templates": [
-      {
-        "name": "sduthesis",
-        "repo": "Liam0205/sduthesis",
-        "url": "https://github.com/Liam0205/sduthesis",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists Liam0205/sduthesis as a Shandong University LaTeX thesis template.",
-        "github_metrics": {
-          "stars": 86,
-          "last_commit_at": "2017-03-23T14:18:18Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "ouc",
@@ -634,7 +526,7 @@
     "province": "山东",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 surfaced jstar0/LaTeXTemplate, whose current default branch is an experiment report branch and whose thesis support appears to live on another branch, so it is not yet recorded as a clear thesis-template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -645,7 +537,7 @@
     "province": "湖北",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "whu-thesis",
@@ -663,7 +555,7 @@
         "github_metrics": {
           "stars": 1303,
           "last_commit_at": "2025-05-27T03:24:20Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -675,27 +567,9 @@
     "city": "武汉",
     "province": "湖北",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found thesis template repositories, but the strongest public candidate appears older.",
-    "templates": [
-      {
-        "name": "HUSTPaperTemp",
-        "repo": "skinaze/HUSTPaperTemp",
-        "url": "https://github.com/skinaze/HUSTPaperTemp",
-        "degree_types": [
-          "undergraduate"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "GitHub topics and the historic collection both describe skinaze/HUSTPaperTemp as a Huazhong University of Science and Technology undergraduate LaTeX thesis template.",
-        "github_metrics": {
-          "stars": 326,
-          "last_commit_at": "2022-04-12T03:30:58Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "csu",
@@ -705,7 +579,7 @@
     "province": "湖南",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear graduate thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "CSUthesis",
@@ -722,7 +596,7 @@
         "github_metrics": {
           "stars": 287,
           "last_commit_at": "2025-04-02T02:52:52Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -734,27 +608,9 @@
     "city": "长沙",
     "province": "湖南",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found an older undergraduate thesis template repository.",
-    "templates": [
-      {
-        "name": "HNUThesisTemplate",
-        "repo": "leaf-hsiao/HNUThesisTemplate",
-        "url": "https://github.com/leaf-hsiao/HNUThesisTemplate",
-        "degree_types": [
-          "undergraduate"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists leaf-hsiao/HNUThesisTemplate as a Hunan University undergraduate thesis LaTeX template.",
-        "github_metrics": {
-          "stars": 56,
-          "last_commit_at": "2019-12-11T16:35:49Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "sysu",
@@ -763,27 +619,9 @@
     "city": "广州",
     "province": "广东",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
-    "templates": [
-      {
-        "name": "sysuthesis",
-        "repo": "zhibo/sysuthesis",
-        "url": "https://github.com/zhibo/sysuthesis",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists zhibo/sysuthesis as a Sun Yat-sen University thesis template based on pkuthss.",
-        "github_metrics": {
-          "stars": 25,
-          "last_commit_at": "2013-04-15T11:23:05Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "scut",
@@ -793,7 +631,7 @@
     "province": "广东",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "SCUT_thesis",
@@ -810,7 +648,7 @@
         "github_metrics": {
           "stars": 534,
           "last_commit_at": "2026-01-27T13:45:42Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -822,27 +660,9 @@
     "city": "成都",
     "province": "四川",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
-    "templates": [
-      {
-        "name": "SCU_ThesisDissertation_LaTeXTemplate",
-        "repo": "cuiao/SCU_ThesisDissertation_LaTeXTemplate",
-        "url": "https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists cuiao/SCU_ThesisDissertation_LaTeXTemplate as a Sichuan University thesis LaTeX template.",
-        "github_metrics": {
-          "stars": 105,
-          "last_commit_at": "2018-03-29T16:26:47Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "uestc",
@@ -852,7 +672,7 @@
     "province": "四川",
     "project_985": true,
     "status": "covered",
-    "notes": "Seed repository recorded.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "ThesisUESTC",
@@ -868,7 +688,7 @@
         "github_metrics": {
           "stars": 1619,
           "last_commit_at": "2026-03-17T01:20:07Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -880,27 +700,9 @@
     "city": "重庆",
     "province": "重庆",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository, but the visible public activity appears older.",
-    "templates": [
-      {
-        "name": "CQUThesis",
-        "repo": "nanmu42/CQUThesis",
-        "url": "https://github.com/nanmu42/CQUThesis",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "GitHub topics lists nanmu42/CQUThesis as the Chongqing University graduation thesis LaTeX template, last visibly updated in 2022.",
-        "github_metrics": {
-          "stars": 324,
-          "last_commit_at": "2022-05-12T13:51:40Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "xjtu",
@@ -910,7 +712,7 @@
     "province": "陕西",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository described as official.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "XJTU-thesis",
@@ -927,7 +729,7 @@
         "github_metrics": {
           "stars": 399,
           "last_commit_at": "2026-02-03T13:56:11Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -940,7 +742,7 @@
     "province": "陕西",
     "project_985": true,
     "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository.",
+    "notes": "自动同步后仍满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": [
       {
         "name": "nwputhesis",
@@ -957,7 +759,7 @@
         "github_metrics": {
           "stars": 120,
           "last_commit_at": "2026-04-17T12:30:30Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
+          "last_synced_at": "2026-04-17T13:57:39Z"
         }
       }
     ]
@@ -970,7 +772,7 @@
     "province": "陕西",
     "project_985": true,
     "status": "unverified",
-    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
     "templates": []
   },
   {
@@ -980,27 +782,9 @@
     "city": "兰州",
     "province": "甘肃",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
-    "templates": [
-      {
-        "name": "LZUthesis",
-        "repo": "szsdk/LZUthesis",
-        "url": "https://github.com/szsdk/LZUthesis",
-        "degree_types": [
-          "undergraduate"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists szsdk/LZUthesis as an unofficial Lanzhou University undergraduate thesis LaTeX template.",
-        "github_metrics": {
-          "stars": 11,
-          "last_commit_at": "2022-07-09T07:26:13Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   },
   {
     "school_id": "ynu",
@@ -1009,26 +793,8 @@
     "city": "昆明",
     "province": "云南",
     "project_985": true,
-    "status": "covered",
-    "notes": "First-round GitHub search on 2026-04-17 found an older thesis template repository.",
-    "templates": [
-      {
-        "name": "ynuthesislyx",
-        "repo": "cherrot/ynuthesislyx",
-        "url": "https://github.com/cherrot/ynuthesislyx",
-        "degree_types": [
-          "unknown"
-        ],
-        "official_status": "community",
-        "maintenance_status": "inactive",
-        "last_verified": "2026-04-17",
-        "evidence": "The historic collection repository lists cherrot/ynuthesislyx as a Yunnan University thesis template.",
-        "github_metrics": {
-          "stars": 10,
-          "last_commit_at": "2013-05-19T12:24:16Z",
-          "last_synced_at": "2026-04-17T13:53:08Z"
-        }
-      }
-    ]
+    "status": "unverified",
+    "notes": "当前没有 GitHub 仓库满足收录门槛：stars >= 10，且最近一次提交时间在 2024-01-01 及之后。",
+    "templates": []
   }
 ]
