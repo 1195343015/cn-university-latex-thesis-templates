@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/schemas/mainland-985.schema.json",
-  "title": "Mainland China 985 Thesis LaTeX Template Collection",
+  "$id": "https://example.com/schemas/universities.schema.json",
+  "title": "Mainland China University Thesis LaTeX Template Collection",
   "type": "array",
   "items": {
     "type": "object",
@@ -11,7 +11,6 @@
       "school_name_en",
       "city",
       "province",
-      "project_985",
       "status",
       "notes",
       "templates"
@@ -36,9 +35,6 @@
       "province": {
         "type": "string",
         "minLength": 1
-      },
-      "project_985": {
-        "type": "boolean"
       },
       "status": {
         "type": "string",

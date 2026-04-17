@@ -1,46 +1,16 @@
-# 中国内地 985 高校学位论文 LaTeX 模板收录
+# 中国内地高校学位论文 LaTeX 模板收录
 
-这是一个面向中国内地 `985` 高校的 GitHub 托管 LaTeX 学位论文模板索引项目。
+这是一个面向中国内地高校的 GitHub 托管 LaTeX 学位论文模板索引项目。
 
 当前收录范围：
 
-- 仅收录中国内地 `985` 高校
+- 收录部分中国内地高校的学位论文模板
+- 可持续扩展更多高校模板
 - 仅收录学位论文 / 毕业设计 / 毕业论文模板
 - 仅收录 GitHub 仓库
 - 仅收录 `Stars >= 10` 的仓库
 - 仅收录最近一次提交时间在 `2024-01-01` 及之后的仓库
 - 以学校为单位建立索引，并保留仓库级证据说明
-
-本项目采取保守收录策略。只有在人工确认至少一个符合条件的 GitHub 仓库后，学校状态才会标记为 `covered`。
-
-## 当前概览
-
-- 跟踪学校数：`39`
-- 已收录至少一个仓库的学校数：`19`
-- 首轮检索后仍未确认的学校数：`20`
-
-## 当前未确认学校
-
-- 北京大学
-- 中国人民大学
-- 北京师范大学
-- 中国农业大学
-- 中央民族大学
-- 南开大学
-- 大连理工大学
-- 吉林大学
-- 华东师范大学
-- 厦门大学
-- 山东大学
-- 中国海洋大学
-- 华中科技大学
-- 湖南大学
-- 中山大学
-- 四川大学
-- 重庆大学
-- 西北农林科技大学
-- 兰州大学
-- 云南大学
 
 ## 已确认仓库
 
@@ -57,6 +27,7 @@
 | 电子科技大学 | [bdebye/thesisuestc](https://github.com/bdebye/thesisuestc) | 1619 | 2026-03-17 |
 | 武汉大学 | [whutug/whu-thesis](https://github.com/whutug/whu-thesis) | 1303 | 2025-05-27 |
 | 北京理工大学 | [BITNP/BIThesis](https://github.com/BITNP/BIThesis) | 1085 | 2026-04-04 |
+| 西安电子科技大学 | [note286/xduts](https://github.com/note286/xduts) | 1085 | 2025-05-04 |
 | 复旦大学 | [stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis) | 1020 | 2024-05-06 |
 | 南京大学 | [nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis) | 629 | 2026-04-13 |
 | 北京航空航天大学 | [CheckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis) | 603 | 2024-02-01 |
@@ -64,72 +35,13 @@
 | 西安交通大学 | [obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis) | 399 | 2026-02-03 |
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) | 337 | 2026-04-16 |
 | 中南大学 | [CSUcse/CSUthesis](https://github.com/CSUcse/CSUthesis) | 287 | 2025-04-02 |
+| 北京邮电大学 | [jjfu99/BUPTGraduateThesisLatexTemplate](https://github.com/jjfu99/BUPTGraduateThesisLatexTemplate) | 210 | 2026-03-16 |
 | 天津大学 | [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 153 | 2024-05-28 |
 | 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 122 | 2025-02-09 |
 | 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 120 | 2026-04-17 |
 | 东南大学 | [Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b) | 61 | 2024-08-28 |
 <!-- END:repo-table -->
 
-## 状态定义
-
-- `covered`：已人工确认至少一个符合条件的 GitHub 仓库
-- `unverified`：尚未人工确认到符合条件的 GitHub 仓库
-- `archived`：存在相关仓库，但看起来已归档或长期不再维护
-
-## 仓库收录规则
-
-- 必须托管在 GitHub
-- 必须主要面向学位论文、毕业论文或毕业设计写作
-- 必须能明确关联到某一所中国内地 985 高校
-- 当前 GitHub star 数必须不少于 `10`
-- 最近一次提交时间必须在 `2024-01-01` 及之后
-- 课程报告、简历、幻灯片、通用文章模板不收录
-
-## 目录结构
-
-```text
-schema/
-  mainland-985.schema.json
-data/
-  mainland-985.json
-```
-
-## 数据字段
-
-- `school_id`：稳定的 ASCII 学校标识
-- `school_name_zh`：学校中文名
-- `school_name_en`：学校英文名
-- `city`：学校主校区所在城市
-- `province`：省级行政区
-- `project_985`：是否属于 985 工程高校
-- `status`：当前收录状态
-- `notes`：人工备注
-- `templates`：该校已记录的 GitHub 模板仓库列表
-
-模板字段：
-
-- `name`：模板或仓库简称
-- `repo`：`owner/name`
-- `url`：GitHub 仓库地址
-- `degree_types`：支持的学位类型
-- `official_status`：`official`、`community` 或 `unknown`
-- `maintenance_status`：`active`、`inactive`、`archived` 或 `unknown`
-- `last_verified`：人工核验日期，格式为 `YYYY-MM-DD`
-- `evidence`：用于说明收录依据的简短证据文本
-- `github_metrics.stars`：当前 GitHub star 数
-- `github_metrics.last_commit_at`：最近一次提交时间
-- `github_metrics.last_synced_at`：上次同步 GitHub 指标的时间
-
-## 当前进度
-
-第一版已经补齐全部中国内地 `39` 所 `985` 高校的学校级记录，并为其中一部分学校补充了人工核验过的 GitHub 仓库。
-
-## 后续计划
-
-- 补齐全部 `39` 所高校的仓库确认
-- 增加自动化 schema 校验
-- 自动生成已收录 / 未收录学校表格
-- 增加贡献说明，方便提交新学校或新仓库
 
 
 
