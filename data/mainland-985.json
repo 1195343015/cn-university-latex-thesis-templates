@@ -1,0 +1,874 @@
+[
+  {
+    "school_id": "tsinghua",
+    "school_name_zh": "清华大学",
+    "school_name_en": "Tsinghua University",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "templates": [
+      {
+        "name": "thuthesis",
+        "repo": "tuna/thuthesis",
+        "url": "https://github.com/tuna/thuthesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral",
+          "postdoc"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README describes it as the Tsinghua University thesis template supporting undergraduate, master, doctoral, and postdoctoral documents."
+      }
+    ]
+  },
+  {
+    "school_id": "peking",
+    "school_name_zh": "北京大学",
+    "school_name_en": "Peking University",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "renmin",
+    "school_name_zh": "中国人民大学",
+    "school_name_en": "Renmin University of China",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found an older community thesis template candidate.",
+    "templates": [
+      {
+        "name": "ructhesis",
+        "repo": "ZebinWang/ructhesis",
+        "url": "https://github.com/ZebinWang/ructhesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists ZebinWang/ructhesis as a Renmin University of China LaTeX thesis template."
+      }
+    ]
+  },
+  {
+    "school_id": "bnu",
+    "school_name_zh": "北京师范大学",
+    "school_name_en": "Beijing Normal University",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "cau",
+    "school_name_zh": "中国农业大学",
+    "school_name_en": "China Agricultural University",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 surfaced Cdmium/CAUTemplate, but the description indicates a course thesis template rather than a degree thesis template, so it is excluded.",
+    "templates": []
+  },
+  {
+    "school_id": "bit",
+    "school_name_zh": "北京理工大学",
+    "school_name_en": "Beijing Institute of Technology",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "templates": [
+      {
+        "name": "BIThesis",
+        "repo": "BITNP/BIThesis",
+        "url": "https://github.com/BITNP/BIThesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics lists BITNP/BIThesis as a Beijing Institute of Technology LaTeX template collection including undergraduate and graduate thesis templates, updated in 2025."
+      }
+    ]
+  },
+  {
+    "school_id": "buaa",
+    "school_name_zh": "北京航空航天大学",
+    "school_name_en": "Beihang University",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository.",
+    "templates": [
+      {
+        "name": "BUAAThesis",
+        "repo": "CheckBoxStudio/BUAAThesis",
+        "url": "https://github.com/CheckBoxStudio/BUAAThesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README states it is a Beihang graduate degree thesis template containing both Word and LaTeX versions and covering doctoral and master's dissertations."
+      }
+    ]
+  },
+  {
+    "school_id": "minzu",
+    "school_name_zh": "中央民族大学",
+    "school_name_en": "Minzu University of China",
+    "city": "北京",
+    "province": "北京",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "nankai",
+    "school_name_zh": "南开大学",
+    "school_name_en": "Nankai University",
+    "city": "天津",
+    "province": "天津",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "tju",
+    "school_name_zh": "天津大学",
+    "school_name_en": "Tianjin University",
+    "city": "天津",
+    "province": "天津",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "TJUThesisLatexTemplate",
+        "repo": "xnth97/TJUThesisLatexTemplate",
+        "url": "https://github.com/xnth97/TJUThesisLatexTemplate",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists xnth97/TJUThesisLatexTemplate as LaTeX templates for Tianjin University graduate thesis."
+      }
+    ]
+  },
+  {
+    "school_id": "dut",
+    "school_name_zh": "大连理工大学",
+    "school_name_en": "Dalian University of Technology",
+    "city": "大连",
+    "province": "辽宁",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found at least one GitHub-hosted thesis template candidate.",
+    "templates": [
+      {
+        "name": "DLUT_XeLaTeX_Template_For_Bachelor",
+        "repo": "stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
+        "url": "https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "The repository owner's GitHub profile pins DLUT_XeLaTeX_Template_For_Bachelor and describes it as a Dalian University of Technology undergraduate thesis LaTeX template."
+      }
+    ]
+  },
+  {
+    "school_id": "neu",
+    "school_name_zh": "东北大学",
+    "school_name_en": "Northeastern University",
+    "city": "沈阳",
+    "province": "辽宁",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found at least one GitHub-hosted thesis template candidate.",
+    "templates": [
+      {
+        "name": "NEU-Thesis",
+        "repo": "sci-m-wang/NEU-Thesis",
+        "url": "https://github.com/sci-m-wang/NEU-Thesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "The repository owner's GitHub profile pins NEU-Thesis and describes it as Northeastern University China's thesis in LaTeX that can be imported into Overleaf."
+      }
+    ]
+  },
+  {
+    "school_id": "jlu",
+    "school_name_zh": "吉林大学",
+    "school_name_en": "Jilin University",
+    "city": "长春",
+    "province": "吉林",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found an older thesis template repository.",
+    "templates": [
+      {
+        "name": "jluthesis",
+        "repo": "dartall/jluthesis",
+        "url": "https://github.com/dartall/jluthesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists dartall/jluthesis as a Jilin University thesis template repository."
+      }
+    ]
+  },
+  {
+    "school_id": "hit",
+    "school_name_zh": "哈尔滨工业大学",
+    "school_name_en": "Harbin Institute of Technology",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "hithesis",
+        "repo": "hithesis/hithesis",
+        "url": "https://github.com/hithesis/hithesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral",
+          "postdoc",
+          "proposal"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README states it supports Harbin Institute of Technology thesis writing for bachelor, master, doctor, postdoc, proposal, and midterm report."
+      }
+    ]
+  },
+  {
+    "school_id": "fudan",
+    "school_name_zh": "复旦大学",
+    "school_name_en": "Fudan University",
+    "city": "上海",
+    "province": "上海",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "fduthesis",
+        "repo": "stone-zeng/fduthesis",
+        "url": "https://github.com/stone-zeng/fduthesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics result identifies the repository as a LaTeX thesis template for Fudan University and shows recent activity in late 2024."
+      }
+    ]
+  },
+  {
+    "school_id": "tongji",
+    "school_name_zh": "同济大学",
+    "school_name_en": "Tongji University",
+    "city": "上海",
+    "province": "上海",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "tongji-undergrad-thesis",
+        "repo": "TJ-CSCCG/tongji-undergrad-thesis",
+        "url": "https://github.com/TJ-CSCCG/tongji-undergrad-thesis",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics result identifies the repository as Tongji University undergraduate thesis template and shows activity in 2025."
+      }
+    ]
+  },
+  {
+    "school_id": "sjtu",
+    "school_name_zh": "上海交通大学",
+    "school_name_en": "Shanghai Jiao Tong University",
+    "city": "上海",
+    "province": "上海",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "SJTUThesis",
+        "repo": "sjtug/SJTUThesis",
+        "url": "https://github.com/sjtug/SJTUThesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository page describes it as Shanghai Jiao Tong University LaTeX thesis template and notes that only the latest version is maintained."
+      }
+    ]
+  },
+  {
+    "school_id": "ecnu",
+    "school_name_zh": "华东师范大学",
+    "school_name_en": "East China Normal University",
+    "city": "上海",
+    "province": "上海",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found an older undergraduate thesis template repository.",
+    "templates": [
+      {
+        "name": "ECNU-Undergraduate-LaTeX",
+        "repo": "YijunYuan/ECNU-Undergraduate-LaTeX",
+        "url": "https://github.com/YijunYuan/ECNU-Undergraduate-LaTeX",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists YijunYuan/ECNU-Undergraduate-LaTeX as an East China Normal University undergraduate thesis template."
+      }
+    ]
+  },
+  {
+    "school_id": "nju",
+    "school_name_zh": "南京大学",
+    "school_name_en": "Nanjing University",
+    "city": "南京",
+    "province": "江苏",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear, actively maintained thesis template repository.",
+    "templates": [
+      {
+        "name": "NJUThesis",
+        "repo": "nju-lug/NJUThesis",
+        "url": "https://github.com/nju-lug/NJUThesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics lists nju-lug/NJUThesis as the Nanjing University thesis template and shows updates in 2025."
+      }
+    ]
+  },
+  {
+    "school_id": "seu",
+    "school_name_zh": "东南大学",
+    "school_name_en": "Southeast University",
+    "city": "南京",
+    "province": "江苏",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a recent undergraduate thesis template repository.",
+    "templates": [
+      {
+        "name": "seuthesis2024b",
+        "repo": "Teddy-van-Jerry/seuthesis2024b",
+        "url": "https://github.com/Teddy-van-Jerry/seuthesis2024b",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics lists Teddy-van-Jerry/seuthesis2024b as the Southeast University class of 2024 bachelor thesis LaTeX template, updated in 2024."
+      }
+    ]
+  },
+  {
+    "school_id": "zju",
+    "school_name_zh": "浙江大学",
+    "school_name_en": "Zhejiang University",
+    "city": "杭州",
+    "province": "浙江",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "zjuthesis",
+        "repo": "TheNetAdmin/zjuthesis",
+        "url": "https://github.com/TheNetAdmin/zjuthesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics result identifies the repository as Zhejiang University graduation thesis LaTeX template and shows activity in 2025."
+      }
+    ]
+  },
+  {
+    "school_id": "ustc",
+    "school_name_zh": "中国科学技术大学",
+    "school_name_en": "University of Science and Technology of China",
+    "city": "合肥",
+    "province": "安徽",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "ustcthesis",
+        "repo": "ustctug/ustcthesis",
+        "url": "https://github.com/ustctug/ustcthesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README describes it as the USTC thesis LaTeX template and references the 2024-12-05 graduate thesis writing template."
+      }
+    ]
+  },
+  {
+    "school_id": "xmu",
+    "school_name_zh": "厦门大学",
+    "school_name_en": "Xiamen University",
+    "city": "厦门",
+    "province": "福建",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "LaTeXFileforXMUThesis",
+        "repo": "xiamenwcy/LaTeXFileforXMUThesis",
+        "url": "https://github.com/xiamenwcy/LaTeXFileforXMUThesis",
+        "degree_types": [
+          "master"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists xiamenwcy/LaTeXFileforXMUThesis as an Xiamen University master's thesis LaTeX template."
+      }
+    ]
+  },
+  {
+    "school_id": "sdu",
+    "school_name_zh": "山东大学",
+    "school_name_en": "Shandong University",
+    "city": "济南",
+    "province": "山东",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "sduthesis",
+        "repo": "Liam0205/sduthesis",
+        "url": "https://github.com/Liam0205/sduthesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists Liam0205/sduthesis as a Shandong University LaTeX thesis template."
+      }
+    ]
+  },
+  {
+    "school_id": "ouc",
+    "school_name_zh": "中国海洋大学",
+    "school_name_en": "Ocean University of China",
+    "city": "青岛",
+    "province": "山东",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 surfaced jstar0/LaTeXTemplate, whose current default branch is an experiment report branch and whose thesis support appears to live on another branch, so it is not yet recorded as a clear thesis-template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "whu",
+    "school_name_zh": "武汉大学",
+    "school_name_en": "Wuhan University",
+    "city": "武汉",
+    "province": "湖北",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "whu-thesis",
+        "repo": "whutug/whu-thesis",
+        "url": "https://github.com/whutug/whu-thesis",
+        "degree_types": [
+          "undergraduate",
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics result labels it as Wuhan University graduation thesis LaTeX template 2025 and shows recent updates."
+      }
+    ]
+  },
+  {
+    "school_id": "hust",
+    "school_name_zh": "华中科技大学",
+    "school_name_en": "Huazhong University of Science and Technology",
+    "city": "武汉",
+    "province": "湖北",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found thesis template repositories, but the strongest public candidate appears older.",
+    "templates": [
+      {
+        "name": "HUSTPaperTemp",
+        "repo": "skinaze/HUSTPaperTemp",
+        "url": "https://github.com/skinaze/HUSTPaperTemp",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics and the historic collection both describe skinaze/HUSTPaperTemp as a Huazhong University of Science and Technology undergraduate LaTeX thesis template."
+      }
+    ]
+  },
+  {
+    "school_id": "csu",
+    "school_name_zh": "中南大学",
+    "school_name_en": "Central South University",
+    "city": "长沙",
+    "province": "湖南",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear graduate thesis template repository.",
+    "templates": [
+      {
+        "name": "CSUthesis",
+        "repo": "CSUcse/CSUthesis",
+        "url": "https://github.com/CSUcse/CSUthesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README describes CSUcse/CSUthesis as a Central South University graduate thesis LaTeX template for doctoral and master's dissertations."
+      }
+    ]
+  },
+  {
+    "school_id": "hnu",
+    "school_name_zh": "湖南大学",
+    "school_name_en": "Hunan University",
+    "city": "长沙",
+    "province": "湖南",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found an older undergraduate thesis template repository.",
+    "templates": [
+      {
+        "name": "HNUThesisTemplate",
+        "repo": "leaf-hsiao/HNUThesisTemplate",
+        "url": "https://github.com/leaf-hsiao/HNUThesisTemplate",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists leaf-hsiao/HNUThesisTemplate as a Hunan University undergraduate thesis LaTeX template."
+      }
+    ]
+  },
+  {
+    "school_id": "sysu",
+    "school_name_zh": "中山大学",
+    "school_name_en": "Sun Yat-sen University",
+    "city": "广州",
+    "province": "广东",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "sysuthesis",
+        "repo": "zhibo/sysuthesis",
+        "url": "https://github.com/zhibo/sysuthesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists zhibo/sysuthesis as a Sun Yat-sen University thesis template based on pkuthss."
+      }
+    ]
+  },
+  {
+    "school_id": "scut",
+    "school_name_zh": "华南理工大学",
+    "school_name_en": "South China University of Technology",
+    "city": "广州",
+    "province": "广东",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "SCUT_thesis",
+        "repo": "mengchaoheng/SCUT_thesis",
+        "url": "https://github.com/mengchaoheng/SCUT_thesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics result describes it as South China University of Technology thesis template and shows updates in 2025."
+      }
+    ]
+  },
+  {
+    "school_id": "scu",
+    "school_name_zh": "四川大学",
+    "school_name_en": "Sichuan University",
+    "city": "成都",
+    "province": "四川",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "SCU_ThesisDissertation_LaTeXTemplate",
+        "repo": "cuiao/SCU_ThesisDissertation_LaTeXTemplate",
+        "url": "https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists cuiao/SCU_ThesisDissertation_LaTeXTemplate as a Sichuan University thesis LaTeX template."
+      }
+    ]
+  },
+  {
+    "school_id": "uestc",
+    "school_name_zh": "电子科技大学",
+    "school_name_en": "University of Electronic Science and Technology of China",
+    "city": "成都",
+    "province": "四川",
+    "project_985": true,
+    "status": "covered",
+    "notes": "Seed repository recorded.",
+    "templates": [
+      {
+        "name": "ThesisUESTC",
+        "repo": "bdebye/thesisuestc",
+        "url": "https://github.com/bdebye/thesisuestc",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "active",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub search result describes bdebye/thesisuestc as the UESTC thesis template for student thesis writing."
+      }
+    ]
+  },
+  {
+    "school_id": "cqu",
+    "school_name_zh": "重庆大学",
+    "school_name_en": "Chongqing University",
+    "city": "重庆",
+    "province": "重庆",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository, but the visible public activity appears older.",
+    "templates": [
+      {
+        "name": "CQUThesis",
+        "repo": "nanmu42/CQUThesis",
+        "url": "https://github.com/nanmu42/CQUThesis",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "GitHub topics lists nanmu42/CQUThesis as the Chongqing University graduation thesis LaTeX template, last visibly updated in 2022."
+      }
+    ]
+  },
+  {
+    "school_id": "xjtu",
+    "school_name_zh": "西安交通大学",
+    "school_name_en": "Xi'an Jiaotong University",
+    "city": "西安",
+    "province": "陕西",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository described as official.",
+    "templates": [
+      {
+        "name": "XJTU-thesis",
+        "repo": "obster-y/XJTU-thesis",
+        "url": "https://github.com/obster-y/XJTU-thesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "official",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository README describes obster-y/XJTU-thesis as an official Xi'an Jiaotong University degree thesis LaTeX template for Chinese and English master's and doctoral dissertations."
+      }
+    ]
+  },
+  {
+    "school_id": "nwpu",
+    "school_name_zh": "西北工业大学",
+    "school_name_en": "Northwestern Polytechnical University",
+    "city": "西安",
+    "province": "陕西",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository.",
+    "templates": [
+      {
+        "name": "Yet-Another-LaTeX-Template-for-NPU-Thesis",
+        "repo": "NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis",
+        "url": "https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis",
+        "degree_types": [
+          "master",
+          "doctoral"
+        ],
+        "official_status": "community",
+        "maintenance_status": "unknown",
+        "last_verified": "2026-04-17",
+        "evidence": "Repository page describes it as a Northwestern Polytechnical University master's and doctoral thesis template."
+      }
+    ]
+  },
+  {
+    "school_id": "nwafu",
+    "school_name_zh": "西北农林科技大学",
+    "school_name_en": "Northwest A&F University",
+    "city": "咸阳",
+    "province": "陕西",
+    "project_985": true,
+    "status": "unverified",
+    "notes": "First-round GitHub search on 2026-04-17 did not surface a clear GitHub-hosted degree thesis template repository.",
+    "templates": []
+  },
+  {
+    "school_id": "lzu",
+    "school_name_zh": "兰州大学",
+    "school_name_en": "Lanzhou University",
+    "city": "兰州",
+    "province": "甘肃",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found older community thesis template repositories.",
+    "templates": [
+      {
+        "name": "LZUthesis",
+        "repo": "szsdk/LZUthesis",
+        "url": "https://github.com/szsdk/LZUthesis",
+        "degree_types": [
+          "undergraduate"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists szsdk/LZUthesis as an unofficial Lanzhou University undergraduate thesis LaTeX template."
+      }
+    ]
+  },
+  {
+    "school_id": "ynu",
+    "school_name_zh": "云南大学",
+    "school_name_en": "Yunnan University",
+    "city": "昆明",
+    "province": "云南",
+    "project_985": true,
+    "status": "covered",
+    "notes": "First-round GitHub search on 2026-04-17 found an older thesis template repository.",
+    "templates": [
+      {
+        "name": "ynuthesislyx",
+        "repo": "cherrot/ynuthesislyx",
+        "url": "https://github.com/cherrot/ynuthesislyx",
+        "degree_types": [
+          "unknown"
+        ],
+        "official_status": "community",
+        "maintenance_status": "inactive",
+        "last_verified": "2026-04-17",
+        "evidence": "The historic collection repository lists cherrot/ynuthesislyx as a Yunnan University thesis template."
+      }
+    ]
+  }
+]
