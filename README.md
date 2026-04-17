@@ -11,6 +11,42 @@ Current scope:
 
 This project is intentionally conservative. A school is only marked as covered when at least one GitHub repository has been identified and manually recorded.
 
+## Snapshot
+
+- Schools tracked: `39`
+- Schools with at least one recorded repository: `32`
+- Schools still unverified after the first search pass: `7`
+
+## Current Unverified Schools
+
+- 北京大学
+- 北京师范大学
+- 中国农业大学
+- 中央民族大学
+- 南开大学
+- 中国海洋大学
+- 西北农林科技大学
+
+## Seed Repositories
+
+| University | Repository | Status |
+| --- | --- | --- |
+| 清华大学 | `tuna/thuthesis` | active |
+| 北京理工大学 | `BITNP/BIThesis` | active |
+| 北京航空航天大学 | `CheckBoxStudio/BUAAThesis` | unknown |
+| 哈尔滨工业大学 | `hithesis/hithesis` | active |
+| 复旦大学 | `stone-zeng/fduthesis` | active |
+| 上海交通大学 | `sjtug/SJTUThesis` | active |
+| 南京大学 | `nju-lug/NJUThesis` | active |
+| 浙江大学 | `TheNetAdmin/zjuthesis` | active |
+| 中国科学技术大学 | `ustctug/ustcthesis` | active |
+| 武汉大学 | `whutug/whu-thesis` | active |
+| 中南大学 | `CSUcse/CSUthesis` | unknown |
+| 华南理工大学 | `mengchaoheng/SCUT_thesis` | active |
+| 电子科技大学 | `bdebye/thesisuestc` | active |
+| 西安交通大学 | `obster-y/XJTU-thesis` | unknown |
+| 西北工业大学 | `NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis` | unknown |
+
 ## Status Definitions
 
 - `covered`: at least one matching GitHub repository has been recorded
