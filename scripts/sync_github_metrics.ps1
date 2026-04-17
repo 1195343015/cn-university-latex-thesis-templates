@@ -5,7 +5,7 @@ $dataPath = Join-Path $root "data/universities.json"
 $readmePath = Join-Path $root "README.md"
 $beginMarker = "<!-- BEGIN:repo-table -->"
 $endMarker = "<!-- END:repo-table -->"
-$minStars = 10
+$minStars = 100
 $minLastCommitAt = [DateTime]"2024-01-01T00:00:00Z"
 
 function Get-GitHubJson {

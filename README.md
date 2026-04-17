@@ -8,7 +8,7 @@
 - 可持续扩展更多高校模板
 - 仅收录学位论文 / 毕业设计 / 毕业论文模板
 - 仅收录 GitHub 仓库
-- 仅收录 `Stars >= 10` 的仓库
+- 仅收录 `Stars >= 100` 的仓库
 - 仅收录最近一次提交时间在 `2024-01-01` 及之后的仓库
 - 以学校为单位建立索引
 
@@ -25,7 +25,7 @@
 | 哈尔滨工业大学 | [hithesis/hithesis](https://github.com/hithesis/hithesis) | 2195 | 2026-04-14 |
 | 中国科学技术大学 | [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) | 2070 | 2026-04-16 |
 | 电子科技大学 | [bdebye/thesisuestc](https://github.com/bdebye/thesisuestc) | 1619 | 2026-03-17 |
-| 武汉大学 | [whutug/whu-thesis](https://github.com/whutug/whu-thesis) | 1302 | 2025-05-27 |
+| 武汉大学 | [whutug/whu-thesis](https://github.com/whutug/whu-thesis) | 1301 | 2025-05-27 |
 | 北京理工大学 | [BITNP/BIThesis](https://github.com/BITNP/BIThesis) | 1085 | 2026-04-04 |
 | 西安电子科技大学 | [note286/xduts](https://github.com/note286/xduts) | 1085 | 2025-05-04 |
 | 复旦大学 | [stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis) | 1020 | 2024-05-06 |
@@ -39,8 +39,8 @@
 | 天津大学 | [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 153 | 2024-05-28 |
 | 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 122 | 2025-02-09 |
 | 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 120 | 2026-04-17 |
-| 东南大学 | [Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b) | 61 | 2024-08-28 |
 <!-- END:repo-table -->
+
 
 
 
