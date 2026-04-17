@@ -45,7 +45,7 @@
 | 华南理工大学 | `mengchaoheng/SCUT_thesis` | active |
 | 电子科技大学 | `bdebye/thesisuestc` | active |
 | 西安交通大学 | `obster-y/XJTU-thesis` | unknown |
-| 西北工业大学 | `NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis` | unknown |
+| 西北工业大学 | `1195343015/nwputhesis` | unknown |
 
 ## 状态定义
 

@@ -798,9 +798,9 @@
     "notes": "First-round GitHub search on 2026-04-17 found a clear thesis template repository.",
     "templates": [
       {
-        "name": "Yet-Another-LaTeX-Template-for-NPU-Thesis",
-        "repo": "NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis",
-        "url": "https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis",
+        "name": "nwputhesis",
+        "repo": "1195343015/nwputhesis",
+        "url": "https://github.com/1195343015/nwputhesis",
         "degree_types": [
           "master",
           "doctoral"
