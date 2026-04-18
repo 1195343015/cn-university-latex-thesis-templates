@@ -1,4 +1,4 @@
-# 贡献指南
+# cn-university-latex-thesis-templates 贡献指南
 
 感谢贡献。
 

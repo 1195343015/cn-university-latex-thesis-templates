@@ -1,4 +1,6 @@
-# 中国内地高校学位论文 LaTeX 模板收录
+# cn-university-latex-thesis-templates
+
+中国内地高校学位论文 LaTeX 模板收录。
 
 这是一个面向中国内地高校的 GitHub 托管 LaTeX 学位论文模板索引项目。
 
