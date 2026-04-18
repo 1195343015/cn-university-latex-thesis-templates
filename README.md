@@ -20,26 +20,28 @@
 | 学校 | 仓库 | Stars | 最近提交 |
 | --- | --- | ---: | --- |
 | 清华大学 | [tuna/thuthesis](https://github.com/tuna/thuthesis) | 5257 | 2026-04-04 |
-| 上海交通大学 | [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) | 3742 | 2026-03-12 |
+| 上海交通大学 | [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) | 3744 | 2026-03-12 |
 | 浙江大学 | [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 3605 | 2025-12-08 |
 | 哈尔滨工业大学 | [hithesis/hithesis](https://github.com/hithesis/hithesis) | 2195 | 2026-04-14 |
-| 中国科学技术大学 | [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) | 2070 | 2026-04-16 |
+| 中国科学技术大学 | [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) | 2071 | 2026-04-16 |
 | 电子科技大学 | [bdebye/thesisuestc](https://github.com/bdebye/thesisuestc) | 1619 | 2026-03-17 |
 | 武汉大学 | [whutug/whu-thesis](https://github.com/whutug/whu-thesis) | 1301 | 2025-05-27 |
 | 北京理工大学 | [BITNP/BIThesis](https://github.com/BITNP/BIThesis) | 1085 | 2026-04-04 |
 | 西安电子科技大学 | [note286/xduts](https://github.com/note286/xduts) | 1085 | 2025-05-04 |
 | 复旦大学 | [stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis) | 1020 | 2024-05-06 |
+| 中山大学 | [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) | 909 | 2026-02-02 |
 | 南京大学 | [nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis) | 629 | 2026-04-13 |
 | 北京航空航天大学 | [CheckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis) | 603 | 2024-02-01 |
 | 华南理工大学 | [mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis) | 534 | 2026-01-27 |
 | 西安交通大学 | [obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis) | 399 | 2026-02-03 |
-| 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) | 337 | 2026-04-16 |
+| 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) | 338 | 2026-04-16 |
 | 中南大学 | [CSUcse/CSUthesis](https://github.com/CSUcse/CSUthesis) | 287 | 2025-04-02 |
 | 北京邮电大学 | [jjfu99/BUPTGraduateThesisLatexTemplate](https://github.com/jjfu99/BUPTGraduateThesisLatexTemplate) | 210 | 2026-03-16 |
 | 天津大学 | [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 153 | 2024-05-28 |
 | 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 122 | 2025-02-09 |
 | 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 120 | 2026-04-17 |
 <!-- END:repo-table -->
+
 
 
 
