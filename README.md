@@ -22,9 +22,9 @@
 <!-- BEGIN:repo-table -->
 | 学校 | 仓库 | 学位类型 | Stars | 最近提交 |
 | --- | --- | --- | ---: | --- |
-| 清华大学 | [tuna/thuthesis](https://github.com/tuna/thuthesis) | 本科 / 硕士 / 博士 | 5405 | 2026-06-17 |
-| 上海交通大学 | [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) | 本科 / 硕士 / 博士 | 3818 | 2026-03-12 |
-| 浙江大学 | [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 本科 / 硕士 / 博士 | 3720 | 2025-12-08 |
+| 清华大学 | [tuna/thuthesis](https://github.com/tuna/thuthesis) | 本科 / 硕士 / 博士 | 5406 | 2026-06-17 |
+| 上海交通大学 | [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) | 本科 / 硕士 / 博士 | 3819 | 2026-03-12 |
+| 浙江大学 | [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 本科 / 硕士 / 博士 | 3719 | 2025-12-08 |
 | 哈尔滨工业大学 | [hithesis/hithesis](https://github.com/hithesis/hithesis) | 本科 / 硕士 / 博士 | 2346 | 2026-04-14 |
 | 中国科学技术大学 | [ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) | 本科 / 硕士 / 博士 | 2119 | 2026-05-30 |
 | 电子科技大学 | [bdebye/thesisuestc](https://github.com/bdebye/thesisuestc) | 硕士 / 博士 | 1669 | 2026-06-17 |
@@ -42,8 +42,9 @@
 | 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 本科 / 硕士 / 博士 | 248 | 2026-06-10 |
 | 北京邮电大学 | [jjfu99/BUPTGraduateThesisLatexTemplate](https://github.com/jjfu99/BUPTGraduateThesisLatexTemplate) | 硕士 / 博士 | 221 | 2026-06-02 |
 | 天津大学 | [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 硕士 / 博士 | 157 | 2024-05-28 |
-| 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 本科 / 硕士 / 博士 | 127 | 2026-06-14 |
+| 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 本科 / 硕士 / 博士 | 124 | 2026-06-14 |
 <!-- END:repo-table -->
+
 
 
 
