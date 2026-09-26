@@ -22,7 +22,7 @@
 <!-- BEGIN:repo-table -->
 | 学校 | 仓库 | 学位类型 | Stars | 最近提交 |
 | --- | --- | --- | ---: | --- |
-| 清华大学 | [tuna/thuthesis](https://github.com/tuna/thuthesis) | 本科 / 硕士 / 博士 | 5444 | 2026-06-17 |
+| 清华大学 | [tuna/thuthesis](https://github.com/tuna/thuthesis) | 本科 / 硕士 / 博士 | 5445 | 2026-06-17 |
 | 上海交通大学 | [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) | 本科 / 硕士 / 博士 | 3864 | 2026-03-12 |
 | 浙江大学 | [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 本科 / 硕士 / 博士 | 3756 | 2025-12-08 |
 | 哈尔滨工业大学 | [hithesis/hithesis](https://github.com/hithesis/hithesis) | 本科 / 硕士 / 博士 | 2441 | 2026-09-21 |
@@ -39,11 +39,12 @@
 | 同济大学 | [TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis) | 本科 | 440 | 2026-09-01 |
 | 西安交通大学 | [obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis) | 硕士 / 博士 | 414 | 2026-02-03 |
 | 中南大学 | [CSUcse/CSUthesis](https://github.com/CSUcse/CSUthesis) | 硕士 / 博士 | 301 | 2025-04-02 |
-| 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 本科 / 硕士 / 博士 | 272 | 2026-08-07 |
+| 西北工业大学 | [1195343015/nwputhesis](https://github.com/1195343015/nwputhesis) | 本科 / 硕士 / 博士 | 273 | 2026-08-07 |
 | 北京邮电大学 | [jjfu99/BUPTGraduateThesisLatexTemplate](https://github.com/jjfu99/BUPTGraduateThesisLatexTemplate) | 硕士 / 博士 | 225 | 2026-06-02 |
 | 天津大学 | [xnth97/TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 硕士 / 博士 | 157 | 2024-05-28 |
 | 东北大学 | [sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis) | 本科 / 硕士 / 博士 | 130 | 2026-07-29 |
 <!-- END:repo-table -->
+
 
 
 
